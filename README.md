@@ -1,2 +1,2 @@
 # StrinovaData
-Repository containing the release data for Genshin Impact.
+Repository containing the release data for Strinova.
